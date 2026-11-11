@@ -13,6 +13,7 @@
 #### Languages
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white")
 
 #### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -20,11 +21,17 @@
 #### Databases & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Statistics
+
+<div align="center"> 
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tanawat-Khu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tanawat-Khu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanawat-Khu&theme=tokyonight&hide_border=true&title_color=2196F3" alt="GitHub Streak" />
+</div>
 
 ---
 
