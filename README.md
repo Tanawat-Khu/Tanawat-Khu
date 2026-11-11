@@ -4,7 +4,7 @@
 - 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
 - 💡 Interested in **Software Engineering and Cybersecurity**
 - 🎯 Current Goal: Learning Full-Stack Development and Cybersecurity
-- 💬 Ask me about **SQL, Python**
+- 💬 Ask me about **SQL, Python and Java**
 
 ---
 
@@ -18,7 +18,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
